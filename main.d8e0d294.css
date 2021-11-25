@@ -3987,13 +3987,13 @@ body.white {
 	color: #000
 }
 .social-buttons a:hover {
-	color: #ff0060;
+	color: #1e90ff;
 	text-decoration: none
 }
 .social-buttons a:hover .social-round-icon {
-	background-color: #ff0060;
+	background-color: #1e90ff;
 	color: #fff;
-	border-color: #ff0060
+	border-color: #1e90ff
 }
 .carousel-caption {
 	position: relative;
